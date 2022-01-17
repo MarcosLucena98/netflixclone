@@ -1,4 +1,50 @@
-# Getting Started with Create React App
+# **README** <!-- omit in toc -->
+
+<p align="center"> This Project ...</p>
+
+## **Table of Contents** <!-- omit in toc -->
+
+- [⁉️ **Introduction**](#️-introduction)
+- [🧾 **Requirements**](#-requirements)
+- [**Getting Started with Create React App**](#getting-started-with-create-react-app)
+  - [Available Scripts](#available-scripts)
+    - [`npm start`](#npm-start)
+    - [`npm test`](#npm-test)
+    - [`npm run build`](#npm-run-build)
+    - [`npm run eject`](#npm-run-eject)
+  - [**Learn More**](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
+
+</br>
+
+### *Features* <!-- omit in toc -->
+
+- [x] Make Title
+- [ ] Make Table of Contents
+- [ ] Make Introduction
+- [ ] Make Requirements
+- [x] Make Getting Started with Create React App
+- [x] Learn More
+
+
+# ⁉️ **Introduction** 
+
+
+# 🧾 **Requirements**
+
+
+<br/>
+
+<h4 align="center"> ⚛️ README Project is under Construction. ⚛️ </h4>
+
+<br/>
+
+# **Getting Started with Create React App**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,7 +85,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## **Learn More**
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -68,3 +114,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</br>
+
+Made with 💙 by Marcos Lucena 👨‍🎓.
+[See my LinkedIn](https://linkedin.com/in/lucenamarcos/)
